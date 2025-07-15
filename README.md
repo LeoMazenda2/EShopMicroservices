@@ -20,9 +20,6 @@ Um sistema de e-commerce modular baseado em arquitetura de microserviços, usand
 
 ---
 
-
----
-
 ## 🎯 Objectivo do Projeto
 
 Consolidar boas práticas de desenvolvimento com .NET 8 em ambientes distribuídos e cloud-native, com foco em escalabilidade, modularidade e comunicação eficiente entre serviços.
@@ -46,3 +43,16 @@ Este projeto é 100% containerizado e pronto para ser orquestrado via `docker-co
 
 ```bash
 docker-compose up --build
+
+
+## 📜 Certificação  
+Curso finalizado pela [Udemy](https://www.udemy.com/course/net-microservices/) com mais de **28 horas de conteúdo prático**, ministrado por **Mehmet Ozkaya**.
+
+## 🔗 Links  
+- 🎓 [Curso na Udemy](https://www.udemy.com/course/net-microservices/)  
+- 👨‍💼 [Meu LinkedIn](https://www.linkedin.com/in/leonildo-vivaldo-mazenda-202121210/)
+
+---
+
+> Desenvolvido com 💻, Docker 🐳 e muita paixão por arquitetura limpa.
+
