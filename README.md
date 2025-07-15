@@ -2,6 +2,8 @@
 
 Este repositório contém a implementação prática do curso **“.NET 8 Microservices: DDD, CQRS, Vertical/Clean Architecture”** (Udemy), que concluí com sucesso — e que marca a **terceira vez** que estudo microserviços, agora com ainda mais profundidade.
 
+---
+
 ## ✅ O que foi construído
 
 Um sistema de e-commerce modular baseado em arquitetura de microserviços, usando:
@@ -28,12 +30,12 @@ Consolidar boas práticas de desenvolvimento com .NET 8 em ambientes distribuíd
 
 ## 🧠 O que aprendi
 
-- Como estruturar uma solução real de microserviços do zero
-- Aplicar DDD com CQRS de forma eficiente e desacoplada
-- Integrar serviços usando **eventos assíncronos com RabbitMQ**
-- Implementar **Gateways com YARP** e aplicar padrões como BFF e Rate Limiting
-- Criar pipelines com validação, logging, exception handling e health checks
-- Gerir múltiplas bases de dados (SQL + NoSQL) com EF Core e Marten
+- Como estruturar uma solução real de microserviços do zero  
+- Aplicar DDD com CQRS de forma eficiente e desacoplada  
+- Integrar serviços usando **eventos assíncronos com RabbitMQ**  
+- Implementar **Gateways com YARP** e aplicar padrões como BFF e Rate Limiting  
+- Criar pipelines com validação, logging, exception handling e health checks  
+- Gerir múltiplas bases de dados (SQL + NoSQL) com EF Core e Marten  
 
 ---
 
@@ -44,9 +46,10 @@ Este projeto é 100% containerizado e pronto para ser orquestrado via `docker-co
 ```bash
 docker-compose up --build
 
+---
 
 ## 📜 Certificação  
-Curso finalizado pela [Udemy](https://www.udemy.com/course/net-microservices/) com mais de **28 horas de conteúdo prático**, ministrado por **Mehmet Ozkaya**.
+Curso finalizado pela **Udemy** com mais de **28 horas de conteúdo prático**, ministrado por **Mehmet Ozkaya**.
 
 ## 🔗 Links  
 - 🎓 [Curso na Udemy](https://www.udemy.com/course/net-microservices/)  
