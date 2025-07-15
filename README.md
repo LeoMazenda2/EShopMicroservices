@@ -20,5 +20,29 @@ Um sistema de e-commerce modular baseado em arquitetura de microserviços, usand
 
 ---
 
-## 📦 Estrutura dos Microserviços
 
+---
+
+## 🎯 Objectivo do Projeto
+
+Consolidar boas práticas de desenvolvimento com .NET 8 em ambientes distribuídos e cloud-native, com foco em escalabilidade, modularidade e comunicação eficiente entre serviços.
+
+---
+
+## 🧠 O que aprendi
+
+- Como estruturar uma solução real de microserviços do zero
+- Aplicar DDD com CQRS de forma eficiente e desacoplada
+- Integrar serviços usando **eventos assíncronos com RabbitMQ**
+- Implementar **Gateways com YARP** e aplicar padrões como BFF e Rate Limiting
+- Criar pipelines com validação, logging, exception handling e health checks
+- Gerir múltiplas bases de dados (SQL + NoSQL) com EF Core e Marten
+
+---
+
+## 🐳 Docker & Orquestração
+
+Este projeto é 100% containerizado e pronto para ser orquestrado via `docker-compose`. Basta executar:
+
+```bash
+docker-compose up --build
