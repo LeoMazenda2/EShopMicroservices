@@ -39,23 +39,20 @@ Consolidar boas práticas de desenvolvimento com .NET 8 em ambientes distribuíd
 
 ---
 
-## 🐳 Docker & Orquestração
-
-Este projeto é 100% containerizado e pronto para ser orquestrado via `docker-compose`. Basta executar:
-
-```bash
-docker-compose up --build
-
----
-
 ## 📜 Certificação  
 Curso finalizado pela **Udemy** com mais de **28 horas de conteúdo prático**, ministrado por **Mehmet Ozkaya**.
 
 ## 🔗 Links  
-- 🎓 [Curso na Udemy](https://www.udemy.com/course/net-microservices/)  
+- 🎓 [Curso na Udemy]([https://www.udemy.com/course/net-microservices/](https://www.udemy.com/share/103fFg3@0lEwo0tmV5Xw5r7aUKHFZQ06e1zRINOPkIkmDGDcbOmyuTmQE0MXqzwFqz0F6qP_bw==/))  
 - 👨‍💼 [Meu LinkedIn](https://www.linkedin.com/in/leonildo-vivaldo-mazenda-202121210/)
 
 ---
 
 > Desenvolvido com 💻, Docker 🐳 e muita paixão por arquitetura limpa.
 
+## 🐳 Docker & Orquestração
+
+Este projeto é 100% containerizado e pronto para ser orquestrado via `docker-compose`. Basta executar:
+
+```bash
+docker-compose up --build
