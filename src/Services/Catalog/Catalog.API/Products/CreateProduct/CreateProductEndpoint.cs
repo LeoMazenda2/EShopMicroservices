@@ -7,7 +7,6 @@ public class CreateProductEndpoint : ICarterModule
 {
     public void AddRoutes(IEndpointRouteBuilder app)
     {
-        Console.WriteLine("AddRoutes called"); // Adicione este log para verificar
         app.MapPost("/products", async (CreateProductRequest request, ISender sender) =>
         {
             var command = request.Adapt<CreateProductCommand>();
