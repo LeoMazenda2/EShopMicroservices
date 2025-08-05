@@ -1,7 +1,4 @@
-﻿using BuildingBlocks.CQRS.Queries;
-using Marten.Linq.QueryHandlers;
-
-namespace Catalog.API.Products.GeProducts;
+﻿namespace Catalog.API.Products.GeProducts;
 
 public record GetProductsQuery() : IQuery<GetProductsResult>;
 public record GetProductsResult(IEnumerable<Product> Products);
